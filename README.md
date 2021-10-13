@@ -1,4 +1,3 @@
 # Ryland T. Giebelhaus
-## The University of British Columbia
-## Contact: ryland.giebelhaus@ubc.ca
-
+## University of Alberta
+## Contact: rgiebelh@ualberta.ca
