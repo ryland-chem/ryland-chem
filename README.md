@@ -2,4 +2,4 @@
 ## Assistant Professor, Department of Chemistry
 ## University of Victoria, Victoria, BC, Canada
 ## Contact: rgiebelhaus@uvic.ca
-## Website: www.giebelhaus-lab.com
+## Website: giebelhaus-lab.com
