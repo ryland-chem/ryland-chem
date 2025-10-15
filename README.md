@@ -1,3 +1,4 @@
-# Ryland T. Giebelhaus
-## University of Alberta
-## Contact: rgiebelh@ualberta.ca
+# Prof. Ryland T. Giebelhaus, PhD
+## Assistant Professor, Department of Chemistry
+## University of Victoria, Victoria, BC, Canada
+## Contact: rgiebelhaus@uvic.ca
